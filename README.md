@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/31949550/README.md)
 # 阿里母婴电商数据分析项目
 
 本项目基于阿里巴巴天池提供的母婴电商数据集，使用Python进行数据清洗、探索性分析和可视化，旨在挖掘用户购买行为、商品销售趋势以及不同用户群体的消费特征。
